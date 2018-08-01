@@ -108,5 +108,5 @@ public class ArbolB {
         c = leer.nextInt();
         busqueda(raiz, c);
     }
-
+  
 }

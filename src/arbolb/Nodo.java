@@ -8,7 +8,7 @@ package arbolb;
 /**
  *
  * @author Gmmonsalve
- */
+ *///
 public class Nodo {
     
     private int info;
